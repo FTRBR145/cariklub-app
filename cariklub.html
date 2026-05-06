@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="id">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Cariklub - Informasi Klub Olahraga Terlengkap</title>
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;700&display=swap" rel="stylesheet">
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <header class="app-bar">
+      <div class="container nav-container">
+        <h1 class="brand-name"><i class="fas fa-volleyball-ball"></i> Cariklub</h1>
+        <nav>
+          <a href="#" class="nav-link active">Beranda</a>
+          <a href="#" class="nav-link">Daftar Klub</a>
+          <a href="#" class="nav-link">Tentang</a>
+        </nav>
+      </div>
+    </header>
+
+    <main>
+      <!-- Hero Section -->
+      <section class="hero">
+        <div class="container">
+          <div class="hero-content">
+            <h1>Temukan Klub Olahraga <span class="gradient-text">Favorit Anda</span></h1>
+            <p>Jelajahi berbagai klub olahraga dari seluruh dunia dengan informasi terlengkap dan terupdate.</p>
+            
+            <div class="search-box">
+              <form onsubmit="event.preventDefault(); searchClub();">
+                <div class="input-wrapper">
+                  <i class="fas fa-search"></i>
+                  <input type="text" id="search" placeholder="Cari nama klub, misal: Persija, Juventus..." />
+                </div>
+                <button type="submit">Cari Sekarang</button>
+              </form>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- Main Content -->
+      <section class="content-section">
+        <div class="container">
+          <div class="section-header">
+            <h2>Daftar <span class="highlight">Klub</span></h2>
+            <p>Menampilkan informasi klub olahraga terbaik.</p>
+          </div>
+          
+          <div id="search-result" class="club-list-container">
+            <!-- Clubs will be loaded here -->
+            <div class="loading-state">
+              <div class="spinner"></div>
+              <p>Sedang memuat data...</p>
+            </div>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <footer class="footer">
+      <div class="container">
+        <div class="footer-content">
+          <div class="footer-brand">
+            <h3><i class="fas fa-volleyball-ball"></i> Cariklub</h3>
+            <p>Platform informasi klub olahraga terbaik dan terlengkap di Indonesia.</p>
+          </div>
+          <div class="footer-links">
+            <h4>Tautan Cepat</h4>
+            <ul>
+              <li><a href="#">Beranda</a></li>
+              <li><a href="#">Daftar Klub</a></li>
+              <li><a href="#">Bantuan</a></li>
+            </ul>
+          </div>
+          <div class="footer-social">
+            <h4>Ikuti Kami</h4>
+            <div class="social-icons">
+              <a href="#"><i class="fab fa-instagram"></i></a>
+              <a href="#"><i class="fab fa-twitter"></i></a>
+              <a href="#"><i class="fab fa-facebook"></i></a>
+            </div>
+          </div>
+        </div>
+        <div class="footer-bottom">
+          <p>&copy; 2025 Cariklub. Dibuat dengan <i class="fas fa-heart"></i> untuk pecinta olahraga.</p>
+        </div>
+      </div>
+    </footer>
+
+    <script src="script.js"></script>
+  </body>
+</html>

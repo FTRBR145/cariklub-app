@@ -1,0 +1,14 @@
+# Backend files (Now static)
+*.php
+db.php
+auth.php
+club.php
+uploads/
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+Thumbs.db
+.DS_Store

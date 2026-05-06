@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "name": "Real Madrid CF",
+    "country": "Spanyol",
+    "year": 1902,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Real_Madrid_CF.svg/1200px-Real_Madrid_CF.svg.png"
+  },
+  {
+    "id": 2,
+    "name": "Manchester United",
+    "country": "Inggris",
+    "year": 1878,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/Manchester_United_FC_crest.svg/1200px-Manchester_United_FC_crest.svg.png"
+  },
+  {
+    "id": 3,
+    "name": "Persija Jakarta",
+    "country": "Indonesia",
+    "year": 1928,
+    "logo": "https://upload.wikimedia.org/wikipedia/id/thumb/a/a4/Persija_Jakarta_logo.svg/1200px-Persija_Jakarta_logo.svg.png"
+  },
+  {
+    "id": 4,
+    "name": "Juventus FC",
+    "country": "Italia",
+    "year": 1897,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Juventus_FC_2017_logo.svg/1200px-Juventus_FC_2017_logo.svg.png"
+  },
+  {
+    "id": 5,
+    "name": "FC Bayern München",
+    "country": "Jerman",
+    "year": 1900,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/FC_Bayern_M%C3%BCnchen_logo_%282017%29.svg/1200px-FC_Bayern_M%C3%BCnchen_logo_%282017%29.svg.png"
+  },
+  {
+    "id": 6,
+    "name": "Los Angeles Lakers",
+    "country": "Amerika Serikat",
+    "year": 1947,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Los_Angeles_Lakers_logo.svg/1200px-Los_Angeles_Lakers_logo.svg.png"
+  },
+  {
+    "id": 7,
+    "name": "Golden State Warriors",
+    "country": "Amerika Serikat",
+    "year": 1946,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/0/01/Golden_State_Warriors_logo.svg/1200px-Golden_State_Warriors_logo.svg.png"
+  },
+  {
+    "id": 8,
+    "name": "Persebaya Surabaya",
+    "country": "Indonesia",
+    "year": 1927,
+    "logo": "https://upload.wikimedia.org/wikipedia/id/thumb/b/be/Persebaya_logo.svg/1200px-Persebaya_logo.svg.png"
+  }
+]
