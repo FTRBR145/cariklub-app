@@ -4,55 +4,139 @@
     "name": "Real Madrid CF",
     "country": "Spanyol",
     "year": 1902,
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Real_Madrid_CF.svg/1200px-Real_Madrid_CF.svg.png"
+    "logo": "https://media.api-sports.io/football/teams/541.png"
   },
   {
     "id": 2,
     "name": "Manchester United",
     "country": "Inggris",
     "year": 1878,
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/Manchester_United_FC_crest.svg/1200px-Manchester_United_FC_crest.svg.png"
+    "logo": "https://media.api-sports.io/football/teams/33.png"
   },
   {
     "id": 3,
     "name": "Persija Jakarta",
     "country": "Indonesia",
     "year": 1928,
-    "logo": "https://upload.wikimedia.org/wikipedia/id/thumb/a/a4/Persija_Jakarta_logo.svg/1200px-Persija_Jakarta_logo.svg.png"
+    "logo": "https://upload.wikimedia.org/wikipedia/id/a/a4/Persija_Jakarta_logo.svg"
   },
   {
     "id": 4,
     "name": "Juventus FC",
     "country": "Italia",
     "year": 1897,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Juventus_FC_2017_logo.svg/1200px-Juventus_FC_2017_logo.svg.png"
+    "logo": "https://media.api-sports.io/football/teams/496.png"
   },
   {
     "id": 5,
     "name": "FC Bayern München",
     "country": "Jerman",
     "year": 1900,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/FC_Bayern_M%C3%BCnchen_logo_%282017%29.svg/1200px-FC_Bayern_M%C3%BCnchen_logo_%282017%29.svg.png"
+    "logo": "https://media.api-sports.io/football/teams/157.png"
   },
   {
     "id": 6,
-    "name": "Los Angeles Lakers",
-    "country": "Amerika Serikat",
-    "year": 1947,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Los_Angeles_Lakers_logo.svg/1200px-Los_Angeles_Lakers_logo.svg.png"
+    "name": "FC Barcelona",
+    "country": "Spanyol",
+    "year": 1899,
+    "logo": "https://media.api-sports.io/football/teams/536.png"
   },
   {
     "id": 7,
-    "name": "Golden State Warriors",
-    "country": "Amerika Serikat",
-    "year": 1946,
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/0/01/Golden_State_Warriors_logo.svg/1200px-Golden_State_Warriors_logo.svg.png"
+    "name": "Liverpool FC",
+    "country": "Inggris",
+    "year": 1892,
+    "logo": "https://media.api-sports.io/football/teams/40.png"
   },
   {
     "id": 8,
+    "name": "Paris Saint-Germain",
+    "country": "Prancis",
+    "year": 1970,
+    "logo": "https://media.api-sports.io/football/teams/85.png"
+  },
+  {
+    "id": 9,
+    "name": "AC Milan",
+    "country": "Italia",
+    "year": 1899,
+    "logo": "https://media.api-sports.io/football/teams/489.png"
+  },
+  {
+    "id": 10,
+    "name": "Borussia Dortmund",
+    "country": "Jerman",
+    "year": 1909,
+    "logo": "https://media.api-sports.io/football/teams/165.png"
+  },
+  {
+    "id": 11,
+    "name": "Chelsea FC",
+    "country": "Inggris",
+    "year": 1905,
+    "logo": "https://media.api-sports.io/football/teams/49.png"
+  },
+  {
+    "id": 12,
+    "name": "Manchester City",
+    "country": "Inggris",
+    "year": 1880,
+    "logo": "https://media.api-sports.io/football/teams/50.png"
+  },
+  {
+    "id": 13,
+    "name": "Arsenal FC",
+    "country": "Inggris",
+    "year": 1886,
+    "logo": "https://media.api-sports.io/football/teams/42.png"
+  },
+  {
+    "id": 14,
+    "name": "Inter Milan",
+    "country": "Italia",
+    "year": 1908,
+    "logo": "https://media.api-sports.io/football/teams/505.png"
+  },
+  {
+    "id": 15,
+    "name": "Atletico Madrid",
+    "country": "Spanyol",
+    "year": 1903,
+    "logo": "https://media.api-sports.io/football/teams/540.png"
+  },
+  {
+    "id": 16,
+    "name": "Ajax Amsterdam",
+    "country": "Belanda",
+    "year": 1900,
+    "logo": "https://media.api-sports.io/football/teams/194.png"
+  },
+  {
+    "id": 17,
+    "name": "Flamengo",
+    "country": "Brasil",
+    "year": 1895,
+    "logo": "https://media.api-sports.io/football/teams/262.png"
+  },
+  {
+    "id": 18,
+    "name": "Boca Juniors",
+    "country": "Argentina",
+    "year": 1905,
+    "logo": "https://media.api-sports.io/football/teams/232.png"
+  },
+  {
+    "id": 19,
+    "name": "River Plate",
+    "country": "Argentina",
+    "year": 1901,
+    "logo": "https://media.api-sports.io/football/teams/233.png"
+  },
+  {
+    "id": 20,
     "name": "Persebaya Surabaya",
     "country": "Indonesia",
     "year": 1927,
-    "logo": "https://upload.wikimedia.org/wikipedia/id/thumb/b/be/Persebaya_logo.svg/1200px-Persebaya_logo.svg.png"
+    "logo": "https://media.api-sports.io/football/teams/136.png"
   }
 ]
